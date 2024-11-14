@@ -4,11 +4,18 @@ A page Rank is a function that assigns a real number to each page in the web. Hi
 ![image](https://github.com/user-attachments/assets/38696f01-a0e8-434d-b988-91c3c9316376)
 
 The purpose of the project is to implement page rank using PySpark
+![image](https://github.com/user-attachments/assets/0b1ea2bf-4743-4d1a-80e6-04d8be55dbc2)
 We have imported Datasets from the library scikit-network and applied page rank on it
+![image](https://github.com/user-attachments/assets/c0e9c75b-b0d5-4de2-8d1a-3ed7532f3275)
+
 ![image](https://github.com/user-attachments/assets/ac79c8b8-4498-4d72-bec8-23cdba56d615)
 PySpark
 ![image](https://github.com/user-attachments/assets/6226452b-834c-491e-bd63-69bb1d588f03)
 ![image](https://github.com/user-attachments/assets/0946c163-d00e-4d44-b422-f3abc154001b)
 ![main](https://github.com/user-attachments/assets/893497af-c523-438b-a6b1-0b6f609e57b2)
+Dummy Dattaset
 ![painters](https://github.com/user-attachments/assets/a91e9d6a-f559-4dcb-87cb-e8e766bb70ac)
+Painter dataset
 ![karate](https://github.com/user-attachments/assets/e07b7120-524a-4876-8d34-a9d945e49b95)
+Karate club 
+
